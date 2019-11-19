@@ -1,0 +1,21 @@
+{
+  "name": "communication__data_blacklistservice",
+  "version": "1.0.0",
+  "description": "BlacklistService",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url" : "git@github.com:communication-data-services/blacklist.git"
+  },
+  "keywords": [
+    "ecosystem:allex",
+    "Service",
+    "Blacklist"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC"
+}
+
